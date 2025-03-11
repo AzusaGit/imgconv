@@ -3,12 +3,15 @@ Convert image extension to other format.
 
 ### Examples
 Convert image and create new filename:
+
 `imgconv img.png new.jpg`
 
 Convert image but don't rename:
+
 `imgconv img.png jpg`
 
 You can also use `-p` flag to specify where to put the output file:
+
 `imgconv img.png jpg -p ~/Pictures/`
 `imgconv img.png jpg -p D://my_folder/`
 
