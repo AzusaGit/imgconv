@@ -13,6 +13,7 @@ Convert image but don't rename:
 You can also use `-p` flag to specify where to put the output file:
 
 `imgconv img.png jpg -p ~/Pictures/`
+
 `imgconv img.png jpg -p D://my_folder/`
 
 By default, output will always be in the current directory.
